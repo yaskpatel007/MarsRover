@@ -1,0 +1,86 @@
+html{background:white}
+body
+{
+    width:100%;
+    margin:auto;
+}
+#input
+{
+    display:none;
+}
+
+.inp_length
+{
+   width: 150px !important;
+   height: 15px !important;
+}
+
+.but_length
+{
+   height: 27px !important;
+   padding: 0px 6px 0px 6px;
+}
+#error
+{
+    padding-top: 95px;
+    padding-bottom: 3px;
+    margin:auto;
+    height: 45px;
+    border-style:none none solid none;
+    border-width: 2px;
+    border-color:#C0C0C0;
+       
+}
+.wrapper
+{
+    width: 100%;
+    height:90px;
+    position:fixed;
+	background-image:url(../img/bg.gif)
+}
+#content
+{
+    padding-top: 100px;
+}
+.header
+{
+    width: 1000px;
+    margin:auto;
+}
+.marsBox
+{
+    width: 30px;
+    height: 30px;
+    border-style:solid;
+    border-width: 1px;
+    border-color:#C0C0C0;
+}
+
+input{
+    text-align:center;
+}
+#notify
+{
+    padding-top:10px;
+    margin: auto;
+    display:none;
+    text-align: center;
+    width: 500px;
+}
+table
+{
+   margin: auto;
+   padding: 20px;
+}
+td
+{
+    height: 40px;
+    width: 40px;
+}
+.moveF
+{
+    background-color:#C0C0C0;
+    width: 40px;
+    height: 40px;
+}
+
